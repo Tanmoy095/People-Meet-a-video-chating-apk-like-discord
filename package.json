@@ -1,0 +1,17 @@
+{
+  "name": "peoplemeet",
+  "version": "1.0.0",
+  "description": "A video chatting app with the functionality of video screen shareing group calling and more",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "video-chating-app",
+    "chatapp",
+    "zoom",
+    "discord"
+  ],
+  "author": "AD TANMOY",
+  "license": "ISC"
+}
